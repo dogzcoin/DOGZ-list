@@ -1,0 +1,25 @@
+{
+  "name": "DOGZ",
+  "logoURI": "https://github.com/dogzcoin/DOGZ-list/blob/main/DOGZ_256.png",
+  "keywords": [
+      "dogz",
+      "DOGZ",
+      "dogzcoin"
+    ],
+    "timestamp": "2020-10-27T03:09:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x82a77710495a35549d2add797412b4a4497d33ef",
+      "name": "DOGZ",
+      "symbol": "DOGZ",
+      "decimals": 18,
+      "logoURI": "https://github.com/dogzcoin/DOGZ-list/blob/main/DOGZ_256.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
