@@ -1,6 +1,6 @@
 {
   "name": "DOGZ",
-  "logoURI": "https://raw.githubusercontent.com/dogzcoin/DOGZ-list/main/token-list.json",
+  "logoURI": "https://raw.githubusercontent.com/dogzcoin/DOGZ-list/main/Dogzcoin.png",
   "keywords": [
       "dogz",
       "DOGZ",
@@ -14,7 +14,7 @@
       "name": "DOGZ",
       "symbol": "DOGZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dogzcoin/DOGZ-list/main/token-list.json"
+      "logoURI": "https://raw.githubusercontent.com/dogzcoin/DOGZ-list/main/Dogzcoin.png"
       }
     ],
     "version": {
